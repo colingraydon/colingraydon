@@ -1,0 +1,8 @@
+I'm Colin Graydon
+I know Java, working on Python.
+Currently work in finance, looking to make the change to fintech
+
+<!---
+colingraydon/colingraydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
