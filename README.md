@@ -1,6 +1,6 @@
 I'm Colin Graydon.
-I know Java, working on Python.
-Currently work in finance, looking to make the change to fintech.
+I know Java and Python, learning Solidity.
+Currently work in finance, looking to make the change to work in the web 3 space.
 You can reach me at colingraydon@gmail.com
 
 <!---
