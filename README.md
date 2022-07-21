@@ -1,6 +1,6 @@
 I'm Colin Graydon.
-I know Java and Python, learning Solidity.
-Currently work in finance, looking to make the change to work in the web 3 space.
+I know Java and Python, have experience with Typescript and Solidity. 
+Currently work in finance, looking to make the change to become a dev.
 You can reach me at colingraydon@gmail.com
 
 <!---
