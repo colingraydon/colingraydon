@@ -1,6 +1,8 @@
 I'm Colin Graydon.
-I know Java, Python, Typescript, and C++.  
-Currently work in finance, looking to make the change to become a dev.
+I'm a full stack developer using Typescript, React, and GraphQL. I also like building with C++, Python, and Java.
+
+Have worked in finance but am finishing school at Georgetown.
+
 You can reach me at colingraydon@gmail.com
 
 <!---
