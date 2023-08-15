@@ -7,7 +7,12 @@ Have worked in finance, currently finishing undergrad Math/CS at Georgetown.
 You can reach me at colingraydon@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colingraydon&layout=donut-vertical)](https://github.com/colingraydon/github-readme-stats)
+<a href="https://github.com/colingraydon/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colingraydon" />
+</a>
+<a href="https://github.com/colingraydon/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colingraydon&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!---
 colingraydon/colingraydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
