@@ -7,8 +7,8 @@ Have worked in finance, currently finishing undergrad Math/CS at Georgetown.
 You can reach me at colingraydon@gmail.com
 
 
-<a href="https://github.com/colingraydon/github-readme-stats" >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colingraydon" rank_icon="github"/>
+<a href="https://github.com/colingraydon/github-readme-stats">
+  <img height=200 align="center" rank_icon="github" src="https://github-readme-stats.vercel.app/api?username=colingraydon" />
 </a>
 <a href="https://github.com/colingraydon/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colingraydon&layout=compact&langs_count=8&card_width=320" />
