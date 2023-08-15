@@ -20,7 +20,7 @@
 </a>
 
 
-<div class="flex-container">
+<div display="flex" flex-direction="row>
 
 
   
