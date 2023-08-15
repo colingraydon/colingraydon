@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [a mobile fitness app](https://github.com/GymLogger/GymLogger)
 
-- 🌱 I’m currently learning **React Native, Terraform. Always trying to learn more about dev ops.**
+- 🌱 I’m currently learning: ** Rust, Terraform. Always trying to learn more about dev ops.**
 
-- 💬 Ask me about **Typescript, GraphQL, React.**
+- 💬 Ask me about: **Typescript, GraphQL, React.**
 
-- 📫 How to reach me **colingraydon@gmail.com**
+- 📫 How to reach me: **colingraydon@gmail.com**
 
-- ⚡ Fun fact **I don't hate Java**
+- ⚡ Fun fact: **I don't hate Java**
 
 
 <a href="https://github.com/colingraydon/github-readme-stats">
