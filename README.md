@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **colingraydon@gmail.com**
 
-- ⚡ Fun fact **I don't actually hate Java**
+- ⚡ Fun fact **I don't hate Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
