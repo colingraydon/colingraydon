@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a mobile fitness app](https://github.com/GymLogger/GymLogger)
 
-- 🌱 I’m currently learning: **Go, Terraform. I'm always trying to learn more about dev ops.**
+- 🌱 I’m currently learning: **Rust, Terraform. I'm always trying to learn more about dev ops.**
 
 - 💬 Ask me about: **Typescript, GraphQL, React.**
 
