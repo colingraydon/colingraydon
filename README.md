@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Colin Graydon</h1>
 <h3 align="center">Full stack developer currently finishing my undergrad Math/CS degree at Georgetown University.</h3>
 
-- 🔭 I’m currently working on [a mobile fitness app](https://github.com/GymLogger/GymLogger)
+- 🔭 I’m currently working on [teaching a full-stack bootcamp for my university.]([https://github.com/GymLogger/GymLogger](https://github.com/hoya-developers/software-engineering-bootcamp))
 
-- 🌱 I’m currently learning: **Rust, Terraform. I'm always trying to learn more about dev ops.**
+- 🌱 I’m currently learning: **Google Cloud, OpenTF. I'm always trying to learn more about dev ops.**
 
 - 💬 Ask me about: **Typescript, GraphQL, React.**
 
