@@ -10,7 +10,9 @@
 - 📫 How to reach me: **colingraydon@gmail.com**
 
 - ⚡ Fun fact: **I don't hate Java. Sue me.**
-
+```bash
+<span>&dollar;</span> npm install ...
+```
 
 <a href="https://github.com/colingraydon/github-readme-stats">
   <img height=200 align="center" rank_icon="github" src="https://github-readme-stats.vercel.app/api?username=colingraydon&rank_icon=github&theme=transparent&include_all_commits=true" />
