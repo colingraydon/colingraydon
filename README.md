@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact: **I don't hate Java. Sue me.**
 
-&dollar; npm install 
+```shell
+&dollar; npm install
+```
 
 
 <a href="https://github.com/colingraydon/github-readme-stats">
