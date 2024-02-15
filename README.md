@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact: **I don't hate Java. Sue me.**
 
-```shell
-&dollar; npm install
+```bash
+npm install
 ```
 
 
