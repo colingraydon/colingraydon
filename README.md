@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I don't hate Java. Sue me.**
 
 ```bash
-npm install
+&dollar; npm install
 ```
 
 
