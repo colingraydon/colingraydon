@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin Graydon</h1>
-<h3 align="center">Full stack developer currently finishing my undergrad Math/CS degree at Georgetown University.</h3>
-
-- 🔭 I’m currently working on [teaching a full-stack bootcamp for my university.]([https://github.com/GymLogger/GymLogger](https://github.com/hoya-developers/software-engineering-bootcamp))
-
-- 🌱 I’m currently learning: **Rust**
-
-- 💬 Ask me about: **Typescript, GraphQL, React.**
-
-- 📫 How to reach me: **colingraydon@gmail.com**
+<h3 align="center">Currently working at Capital One on all things experimentation and feature flagging</h3>
 
 - ⚡ Fun fact: **I don't hate Java. Sue me.**
 
