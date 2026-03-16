@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Colin Graydon</h1>
 <h3 align="center">Currently working at Capital One on all things experimentation and feature flagging</h3>
 
-- ⚡ Fun fact: **I don't hate Java. Sue me.**
+⚡ Fun fact: **I don't hate Java.**
 
 <a href="https://github.com/colingraydon/github-readme-stats">
   <img height=200 align="center" rank_icon="github" src="https://github-readme-stats.vercel.app/api?username=colingraydon&rank_icon=github&theme=transparent&include_all_commits=true" />
