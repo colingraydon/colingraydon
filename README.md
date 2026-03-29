@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Colin Graydon</h1>
+<h1 align="center">Hi - I'm Colin</h1>
 <h3 align="center">Currently working at Capital One on all things experimentation and feature flagging</h3>
 
 ⚡ Fun fact: **I don't hate Java.**
