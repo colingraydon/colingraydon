@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Distributed systems engineer, currently at Capital One supporting the feature flagging and experimentation platform. 
+Distributed systems engineer, currently at Capital One supporting a feature flagging and experimentation platform. 
 
 Also working on Continuum, a distributed leaderless key-value store.
 
@@ -14,6 +14,3 @@ Also working on Continuum, a distributed leaderless key-value store.
 ![](https://github-readme-stats.vercel.app/api?username=colingraydon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/demo/?user=colingraydon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=colingraydon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=colingraydon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
