@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Distributed systems engineer, currently at Capital One supporting a feature flagging and experimentation platform. 
+Distributed systems engineer working in fintech on a feature flagging / experimentation platform. 
 
-Also working on Continuum, a distributed leaderless key-value store.
+Also working on Continuum, an open-source distributed leaderless key-value store.
 
 
 ## 🌐 Socials:
